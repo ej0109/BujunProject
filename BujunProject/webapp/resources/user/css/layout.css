@@ -1,0 +1,260 @@
+@charset "utf-8";
+
+/******************** pc *****************/
+
+body {line-height: 1; position: relative; left: 0; -webkit-transition: left .3s; transition: left .3s;}
+
+
+
+/* 메뉴 */
+.gnb_menu_pc {display:block;}
+.gnb_menu_mob {display:none;}
+
+
+
+
+
+
+
+
+
+
+
+
+/* 메뉴 수정해야됨 */
+
+.header.on {
+    position: fixed;
+    top: 0;
+    background-color: #000;
+    color: #fff;
+}
+
+p {
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+
+
+
+.container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.header {
+    width: 100%;
+    height: 150px;
+    background-color: #c83349;
+    position: relative;
+    border-bottom: 2px solid black;
+}
+
+.header>.gnb_wrap {
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    z-index: 100;
+    /*outline: 3px dotted gold;*/
+    position: relative;
+}
+
+.gnb {
+    width: 1000px;
+    height: 60px;
+    position: absolute;
+    left: 50%;
+    margin-left: -500px;
+    bottom: 0;
+    /*outline: 4px dotted greenyellow;*/
+}
+
+.gnb:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.gnb li {
+    width: 200px;
+    height: 60px;
+}
+
+.gnb>li {
+    float: left;
+}
+
+.gnb li:hover {
+    background-color: #e06377;
+}
+
+.gnb li>a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    line-height: 60px;
+}
+
+.gnb .sub {
+    background-color: floralwhite;
+}
+
+.header .sub_bg {
+    width: 100%;
+    height: 240px;
+    background-color: tan;
+    position: absolute;
+    top: 100%;
+}
+
+
+/* main_visual*/
+
+.main_visual {
+    width: 100%;
+    height: 570px;
+    background: url("../img/main_visual_bg.jpg")no-repeat center center;
+}
+
+.main_visual .wrap {
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    background: url("../img/images/main_visual_m_copy.png") no-repeat 0 0;
+    /*outline: 4px dotted lime;*/
+    position: relative;
+}
+
+.main_visual .more {
+    position: absolute;
+    top: 407px;
+    left: 173px;
+}
+
+.main_visual .buttons a {
+    position: absolute;
+    display: block;
+    width: 180px;
+    height: 130px;
+    outline: 3px dotted #ddd;
+    top: 50%;
+    margin-top: -65px;
+}
+
+.main_visual .buttons a.prev {
+    left: -180px;
+}
+
+.main_visual .buttons a.next {
+    left: 100%;
+}
+
+.main_visual .navi {
+    width: 77px;
+    height: 18px;
+    position: absolute;
+    bottom: 23px;
+    left: 50%;
+    margin-left: -38px;
+    outline: 4px dotted #ddd;
+}
+
+.main_visual .navi:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.main_visual .navi a {
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.main_visual .navi a.navi_btn1 {
+    float: left;
+    margin-top: 4px;
+}
+
+.main_visual .navi a.navi_btn2 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 50%;
+    margin-left: -9px;
+}
+
+.main_visual .navi a.navi_btn3 {
+    float: right;
+    margin-top: 4px;
+}
+
+
+
+
+
+/* 위로가기 */
+.topBt {position:fixed;bottom:210px;right:-80px;width:65px;height:65px; border-radius:50%; z-index:3500;font-size:13px;letter-spacing:-9999px; overflow:hidden; color:#fff;line-height:1;transition:all .3s ease;}
+.topBt span {color:#fff;}
+.topBt:before {content:"";display:block;width:27px;height:30px;margin:17px auto 8px; background:url(../images/common/arr_top.png) no-repeat 0 0;}
+.topBt.over {background:#023368;right:20px;}
+
+
+
+/******************** pc_1500px *****************/
+@media all and (max-width:1500px) {
+
+}
+
+
+
+/******************** pad *****************/
+@media all and (max-width:1000px) {
+	
+	/* 메뉴 */
+	.gnb_menu_pc {display:none;}
+	.gnb_menu_mob {display:block;}
+	
+	#menu a.menu-icon.open {background:url(/common/images/cmm/mob_btnmenu_close.png) no-repeat 0 0; z-index: 99999;}
+	
+	#menu .Mob_navigation {display:block; height:100%; position:absolute;  top:0;  right:-250px;  transition:all .3s; width:240px;  background:#fff; z-index:99999;}
+	#menu .Mob_navigation.open {height:100%;}
+	#menu .Mob_navigation .mob_top {padding:15px;}	
+	#menu .Mob_navigation .mob_top .txt {font-size:12px; line-height:16px;}
+	#menu .Mob_navigation .mob_topbtn {margin-top:5px;}
+	#menu .Mob_navigation .mob_topbtn:after {display:block; content:''; clear:both;}
+	#menu .Mob_navigation .mob_topbtn li {float:left;}
+	#menu .Mob_navigation .mob_topbtn li a {display:inline-block;  border-radius:3px; padding:5px; font-size:12px; transition:background .3s;}
+	#menu .Mob_navigation .mob_topbtn li.mob_login a {margin-right:3px; border:1px solid #333; background:#333; color:#fff;}
+	#menu .Mob_navigation .mob_topbtn li.mob_login a:hover {background:#555;}
+	#menu .Mob_navigation .mob_topbtn li.mob_join a {border:1px solid #ccc;}
+	
+	#menu .Mob_navigation.open {display:block; right:0;}
+	#menu .Mob_navigation p.mobmenutit { height:70px; color:#fff; background:url(/common/images/cmm/submenu_bg.png) no-repeat 0 0; text-align:center; font-size:30px; font-weight:600; border-bottom:3px solid #031767; padding-top:40px;}
+	#menu .Mob_navigation ul.side-menu {border-top:1px solid #ccc; z-index:-1;  -webkit-transition: right .3s;  transition: right .3s; }
+	#menu .Mob_navigation ul.side-menu li.depth1 {border-bottom:1px solid #ccc;}
+	#menu .Mob_navigation ul.side-menu li.depth1 > a{font-size:13px; color:#333; display:block; text-align:left; line-height:50px; padding:0px 15px; background:url(/common/images/cmm/mob_menu01bg.png) no-repeat; background-position:210px 20px; -webkit-transition: background-position .3s;  transition: background-position .3s;}
+	#menu .Mob_navigation ul.side-menu li.depth1 > a.off{}
+	#menu .Mob_navigation ul.side-menu li.depth1 > a.on {color:#333; font-weight:600; background:url(/common/images/cmm/mob_menu01bg.png) no-repeat; background-position:210px -30px;}
+	#menu .Mob_navigation ul.side-menu li.depth1 > ul {background:#3a3a3a; }
+	#menu .Mob_navigation ul.side-menu li.depth2 { display:block; border-bottom:1px solid #555; padding-left:15px;}
+	#menu .Mob_navigation ul.side-menu li.depth2:last-child {border-bottom:none;}
+	#menu .Mob_navigation ul.side-menu li.depth2 > a {font-size:13px; display:block; color:#f9f9f9; line-height:40px; text-align:left; padding-left:10px; background:url(/common/images/cmm/mob_menubul01.png) no-repeat 0 19px;}
+	#menu .Mob_navigation ul.side-menu li.depth2 > ul {padding:0px 0px 10px 0px; }
+	#menu .Mob_navigation ul.side-menu li.depth3 { display:block;  }
+	#menu .Mob_navigation ul.side-menu li.depth3 > a {display:block; color:#ccc; line-height:30px; text-align:left; padding-left:20px; background:url(/common/images/cmm/mob_menubul02.png) no-repeat 12px 15px;}	
+}
+
+
+
+
+
+/******************** mob *****************/
+@media all and (max-width:767px) {
+
+}
