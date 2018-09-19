@@ -4,67 +4,221 @@
 <!-- header -->
 <%@ include file="../include/header.jsp" %>
 
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae ex vel quis tempora id sed eos rerum perspiciatis at, corporis reiciendis rem praesentium labore maxime magnam maiores ipsam ducimus quaerat, eaque animi voluptatem, laudantium beatae
-        illum! Tempora quod aliquam, veniam quo magnam sequi atque aspernatur architecto facere rerum animi debitis quis, laboriosam. Nostrum consectetur doloremque nihil, officia accusantium iure non sed a nam nesciunt unde, quam voluptates quis. Explicabo,
-        accusamus, vitae. Accusantium, a saepe placeat. Impedit maxime voluptatum ab, dolore, necessitatibus, nam quaerat nesciunt eaque repellat quod rerum amet, nihil fugiat nobis vero! Blanditiis ad fugit illo velit inventore eum officia, sint nihil
-        fuga laboriosam ipsum nesciunt adipisci excepturi reprehenderit, enim dolore temporibus, eveniet, magnam omnis accusamus cum. Ipsam eum, dolor itaque deserunt illum mollitia eos, sapiente quia temporibus ex, rem! Nam nulla ex veritatis labore
-        facere iusto maiores eos excepturi provident consectetur nemo nisi vero tempora obcaecati aliquam expedita autem quia totam molestias, quidem nostrum cumque accusantium, consequuntur corporis aspernatur? Voluptatibus quo architecto temporibus
-        animi sequi, amet velit blanditiis officiis soluta eos, porro voluptate, dolorem vel laudantium eaque accusantium ex tempora, cum accusamus voluptatum! Officia dolorem culpa commodi ullam expedita nobis reprehenderit laborum deserunt odio corporis,
-        voluptates ex sed, tempora quaerat explicabo id velit. Vel quibusdam sunt autem, velit rerum consequatur voluptas ipsam! Qui dolorum, provident molestias sit est debitis dicta magni. Reprehenderit mollitia velit et minima magni ratione sequi tempore
-        quae tenetur aperiam temporibus, aliquam, odio tempora quos labore culpa totam suscipit iste, delectus voluptatibus voluptas fuga illum. Optio modi nesciunt, repudiandae iusto nemo quidem. Officiis suscipit aliquam recusandae assumenda at dolorum,
-        mollitia impedit obcaecati magni voluptatibus, esse totam molestias voluptate quam, optio in placeat illum unde! Reiciendis ullam voluptatum aperiam iusto, molestias similique fuga ex officia ab dolorem. Corporis distinctio laboriosam nobis animi
-        dolorem vero, atque, assumenda ullam consectetur tempora harum exercitationem! Repellat, quidem eaque delectus sunt accusantium saepe placeat eius adipisci. Officia ducimus accusantium totam iusto ad dicta fugiat ea error saepe delectus! Similique
-        eius perferendis, ipsum, autem accusamus aliquid, porro dolore earum eum error est et aliquam quos ab odio laudantium iusto cupiditate temporibus expedita. Impedit ipsam sequi dicta doloribus, repudiandae animi ea maxime, a officia alias eius
-        quia facilis natus est deserunt consectetur omnis dolorum officiis repellendus molestiae pariatur, nostrum velit. Nam modi, libero quam magnam quaerat dolore nisi doloribus commodi, magni totam temporibus vero accusamus aspernatur eaque dolores
-        saepe, molestias reprehenderit vel voluptatibus harum odio deserunt quia? Rerum dicta sit praesentium, magnam maxime reiciendis ipsam. Repellendus veritatis velit totam debitis nesciunt iste distinctio, ipsa sint sit fugiat itaque atque nam incidunt
-        aliquid illum culpa numquam iure natus, unde perspiciatis, dolorem soluta. Magnam sit repellendus eius. Aspernatur natus doloribus nam ea laboriosam, consectetur voluptatum eum et? Itaque enim totam quis corporis et nemo numquam ratione laudantium,
-        consectetur, error dolore? Dolore quasi mollitia temporibus earum beatae dolor quam quis, culpa nemo accusantium optio nulla suscipit, inventore, iusto deleniti ducimus ipsum tempore voluptas dolorem velit blanditiis ratione sed! Nostrum in doloremque
-        impedit pariatur maiores iure quod, officiis quo saepe. Perspiciatis quisquam, dolor tenetur saepe ad blanditiis fuga nobis cum totam accusamus, vitae magnam quos ullam quod nulla qui dolore quibusdam consectetur rerum laudantium aliquam debitis
-        nostrum. Quos quidem maxime numquam delectus error asperiores, at! Harum, facilis, tenetur. Neque ab, alias officiis temporibus, nisi rerum natus architecto excepturi repellendus quod blanditiis distinctio dignissimos maiores eaque fugiat hic,
-        dolorem asperiores voluptatibus ea esse officia. Veniam sint corporis atque consequuntur nulla, ducimus nostrum, perspiciatis. Modi eum dicta natus eos, sint nobis. Doloribus ut sequi magni hic architecto velit necessitatibus nostrum aperiam saepe
-        adipisci provident reprehenderit, assumenda tenetur pariatur sapiente perferendis facilis quis culpa ea dicta dolor esse tempora expedita! Tempore totam hic voluptates itaque, saepe minima officia, cum tempora veniam non nesciunt cupiditate! Consequuntur
-        rem, quibusdam similique odit culpa eos earum consectetur id esse non libero ipsa obcaecati iure in quo voluptate error ab incidunt. Nulla ipsa quod quisquam earum. Mollitia beatae temporibus nesciunt praesentium sunt aspernatur, quia veritatis
-        necessitatibus nemo, placeat ipsam magni ab at quae voluptate minus, deleniti libero. Excepturi libero doloribus repellat, dolore quisquam perferendis et dolor fugit corporis quos optio saepe, adipisci aperiam ipsa maiores id. Suscipit in atque
-        animi quod, doloremque, qui omnis necessitatibus fugit quia vel asperiores sit, obcaecati odio. Impedit quasi ipsum quos sint excepturi neque maiores pariatur, vel et commodi maxime fugit aliquam ex nostrum tempora atque quo recusandae incidunt
-        corrupti doloremque accusantium nisi. Quod totam, nulla ut delectus, placeat expedita repudiandae earum, facere a ipsa veritatis assumenda iste ab dolore. Ab illum tenetur fuga iste dolorem magni velit explicabo, deserunt qui. Ex voluptas aperiam
-        quaerat quibusdam doloribus placeat minus, magnam minima nihil quisquam mollitia dolorem voluptatem, in numquam assumenda, vel aliquid repellendus iste sequi aliquam error sed velit repudiandae. Numquam accusamus ipsum amet soluta laudantium iste
-        ipsa explicabo dignissimos nesciunt quasi vitae voluptates, sequi rem! Voluptatibus provident voluptate, distinctio necessitatibus perspiciatis aperiam fugit asperiores placeat quasi maiores soluta accusamus eaque incidunt vitae, recusandae aut
-        ea eligendi eos velit iure, dolorem, adipisci corrupti non! Recusandae qui hic quibusdam provident sint dolor quos dolorum ipsa minus, quas tenetur rerum eum quis deserunt sed harum et tempore. Vel officiis accusantium quod, dolores perferendis!
-        Mollitia, ducimus nemo. Asperiores velit quisquam magni numquam veniam, rem itaque illum officia autem ab culpa distinctio ratione consequatur totam quo aspernatur optio? Aut eum labore ipsam natus, veritatis itaque saepe ea repellendus nesciunt
-        dolore doloribus neque omnis dignissimos nobis ut dicta ex, assumenda dolorum reiciendis eligendi. Placeat quis quas alias omnis earum voluptate. Non odit recusandae quisquam, quasi nisi voluptate animi aspernatur tempora. Libero veritatis itaque
-        provident adipisci fugit fugiat beatae corrupti nostrum, commodi nulla officia, ipsam et nisi laudantium eum, reiciendis voluptatem vero in repellendus deleniti quisquam molestias necessitatibus. Assumenda magni eligendi quos, vel doloremque,
-        dolorem cupiditate aliquid a distinctio, ducimus praesentium debitis beatae ut voluptate quaerat possimus commodi ad! Aliquam veritatis tempore nobis dolores qui rerum sint, quod reprehenderit autem accusamus, tempora, ratione, earum architecto
-        illo ipsa provident dignissimos! Commodi laborum culpa reprehenderit, ipsum dolores sequi aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae ex vel quis tempora id sed eos rerum perspiciatis at, corporis reiciendis rem
-        praesentium labore maxime magnam maiores ipsam ducimus quaerat, eaque animi voluptatem, laudantium beatae illum! Tempora quod aliquam, veniam quo magnam sequi atque aspernatur architecto facere rerum animi debitis quis, laboriosam. Nostrum consectetur
-        doloremque nihil, officia accusantium iure non sed a nam nesciunt unde, quam voluptates quis. Explicabo, accusamus, vitae. Accusantium, a saepe placeat. Impedit maxime voluptatum ab, dolore, necessitatibus, nam quaerat nesciunt eaque repellat
-        quod rerum amet, nihil fugiat nobis vero! Blanditiis ad fugit illo velit inventore eum officia, sint nihil fuga laboriosam ipsum nesciunt adipisci excepturi reprehenderit, enim dolore temporibus, eveniet, magnam omnis accusamus cum. Ipsam eum,
-        dolor itaque deserunt illum mollitia eos, sapiente quia temporibus ex, rem! Nam nulla ex veritatis labore facere iusto maiores eos excepturi provident consectetur nemo nisi vero tempora obcaecati aliquam expedita autem quia totam molestias, quidem
-        nostrum cumque accusantium, consequuntur corporis aspernatur? Voluptatibus quo architecto temporibus animi sequi, amet velit blanditiis officiis soluta eos, porro voluptate, dolorem vel laudantium eaque accusantium ex tempora, cum accusamus voluptatum!
-        Officia dolorem culpa commodi ullam expedita nobis reprehenderit laborum deserunt odio corporis, voluptates ex sed, tempora quaerat explicabo id velit. Vel quibusdam sunt autem, velit rerum consequatur voluptas ipsam! Qui dolorum, provident molestias
-        sit est debitis dicta magni. Reprehenderit mollitia velit et minima magni ratione sequi tempore quae tenetur aperiam temporibus, aliquam, odio tempora quos labore culpa totam suscipit iste, delectus voluptatibus voluptas fuga illum. Optio modi
-        nesciunt, repudiandae iusto nemo quidem. Officiis suscipit aliquam recusandae assumenda at dolorum, mollitia impedit obcaecati magni voluptatibus, esse totam molestias voluptate quam, optio in placeat illum unde! Reiciendis ullam voluptatum aperiam
-        iusto, molestias similique fuga ex officia ab dolorem. Corporis distinctio laboriosam nobis animi dolorem vero, atque, assumenda ullam consectetur tempora harum exercitationem! Repellat, quidem eaque delectus sunt accusantium saepe placeat eius
-        adipisci. Officia ducimus accusantium totam iusto ad dicta fugiat ea error saepe delectus! Similique eius perferendis, ipsum, autem accusamus aliquid, porro dolore earum eum error est et aliquam quos ab odio laudantium iusto cupiditate temporibus
-        expedita. Impedit ipsam sequi dicta doloribus, repudiandae animi ea maxime, a officia alias eius quia facilis natus est deserunt consectetur omnis dolorum officiis repellendus molestiae pariatur, nostrum velit. Nam modi, libero quam magnam quaerat
-        dolore nisi doloribus commodi, magni totam temporibus vero accusamus aspernatur eaque dolores saepe, molestias reprehenderit vel voluptatibus harum odio deserunt quia? Rerum dicta sit praesentium, magnam maxime reiciendis ipsam. Repellendus veritatis
-        velit totam debitis nesciunt iste distinctio, ipsa sint sit fugiat itaque atque nam incidunt aliquid illum culpa numquam iure natus, unde perspiciatis, dolorem soluta. Magnam sit repellendus eius. Aspernatur natus doloribus nam ea laboriosam,
-        consectetur voluptatum eum et? Itaque enim totam quis corporis et nemo numquam ratione laudantium, consectetur, error dolore? Dolore quasi mollitia temporibus earum beatae dolor quam quis, culpa nemo accusantium optio nulla suscipit, inventore,
-        iusto deleniti ducimus ipsum tempore voluptas dolorem velit blanditiis ratione sed! Nostrum in doloremque impedit pariatur maiores iure quod, officiis quo saepe. Perspiciatis quisquam, dolor tenetur saepe ad blanditiis fuga nobis cum totam accusamus,
-        vitae magnam quos ullam quod nulla qui dolore quibusdam consectetur rerum laudantium aliquam debitis nostrum. Quos quidem maxime numquam delectus error asperiores, at! Harum, facilis, tenetur. Neque ab, alias officiis temporibus, nisi rerum natus
-        architecto excepturi repellendus quod blanditiis distinctio dignissimos maiores eaque fugiat hic, dolorem asperiores voluptatibus ea esse officia. Veniam sint corporis atque consequuntur nulla, ducimus nostrum, perspiciatis. Modi eum dicta natus
-        eos, sint nobis. Doloribus ut sequi magni hic architecto velit necessitatibus nostrum aperiam saepe adipisci provident reprehenderit, assumenda tenetur pariatur sapiente perferendis facilis quis culpa ea dicta dolor esse tempora expedita! Tempore
-        totam hic voluptates itaque, saepe minima officia, cum tempora veniam non nesciunt cupiditate! Consequuntur rem, quibusdam similique odit culpa eos earum consectetur id esse non libero ipsa obcaecati iure in quo voluptate error ab incidunt. Nulla
-        ipsa quod quisquam earum. Mollitia beatae temporibus nesciunt praesentium sunt aspernatur, quia veritatis necessitatibus nemo, placeat ipsam magni ab at quae voluptate minus, deleniti libero. Excepturi libero doloribus repellat, dolore quisquam
-        perferendis et dolor fugit corporis quos optio saepe, adipisci aperiam ipsa maiores id. Suscipit in atque animi quod, doloremque, qui omnis necessitatibus fugit quia vel asperiores sit, obcaecati odio. Impedit quasi ipsum quos sint excepturi neque
-        maiores pariatur, vel et commodi maxime fugit aliquam ex nostrum tempora atque quo recusandae incidunt corrupti doloremque accusantium nisi. Quod totam, nulla ut delectus, placeat expedita repudiandae earum, facere a ipsa veritatis assumenda iste
-        ab dolore. Ab illum tenetur fuga iste dolorem magni velit explicabo, deserunt qui. Ex voluptas aperiam quaerat quibusdam doloribus placeat minus, magnam minima nihil quisquam mollitia dolorem voluptatem, in numquam assumenda, vel aliquid repellendus
-        iste sequi aliquam error sed velit repudiandae. Numquam accusamus ipsum amet soluta laudantium iste ipsa explicabo dignissimos nesciunt quasi vitae voluptates, sequi rem! Voluptatibus provident voluptate, distinctio necessitatibus perspiciatis
-        aperiam fugit asperiores placeat quasi maiores soluta accusamus eaque incidunt vitae, recusandae aut ea eligendi eos velit iure, dolorem, adipisci corrupti non! Recusandae qui hic quibusdam provident sint dolor quos dolorum ipsa minus, quas tenetur
-        rerum eum quis deserunt sed harum et tempore. Vel officiis accusantium quod, dolores perferendis! Mollitia, ducimus nemo. Asperiores velit quisquam magni numquam veniam, rem itaque illum officia autem ab culpa distinctio ratione consequatur totam
-        quo aspernatur optio? Aut eum labore ipsam natus, veritatis itaque saepe ea repellendus nesciunt dolore doloribus neque omnis dignissimos nobis ut dicta ex, assumenda dolorum reiciendis eligendi. Placeat quis quas alias omnis earum voluptate.
-        Non odit recusandae quisquam, quasi nisi voluptate animi aspernatur tempora. Libero veritatis itaque provident adipisci fugit fugiat beatae corrupti nostrum, commodi nulla officia, ipsam et nisi laudantium eum, reiciendis voluptatem vero in repellendus
-        deleniti quisquam molestias necessitatibus. Assumenda magni eligendi quos, vel doloremque, dolorem cupiditate aliquid a distinctio, ducimus praesentium debitis beatae ut voluptate quaerat possimus commodi ad! Aliquam veritatis tempore nobis dolores
-        qui rerum sint, quod reprehenderit autem accusamus, tempora, ratione, earum architecto illo ipsa provident dignissimos! Commodi laborum culpa reprehenderit, ipsum dolores sequi aliquid.</p>
+
+	<!-- 비쥬얼 -->
+	<div class="visual">
+		<div class="visual_wrap">
+		
+			<div class="visual_title c">
+				<img src="${pageContext.request.contextPath}/resources/user/images/main/visual_title.png" alt="지식과 문화의 길, 따스한 삶이 있는 부전도서관" />
+			</div>
+			
+			<div class="search_bg">
+				<div class="search_title">소장자료 검색</div>
+				
+				<form class="search_form">
+					<input type="text" />
+					<button type="button" class="m_search">
+						<img src="${pageContext.request.contextPath}/resources/user/images/main/v_search.png" alt="검색">
+					</button>
+				</form>
+			</div>
+
+		</div>
+	</div>
+	
+	
+	<!-- 팝업존 / 소식 -->
+	<div class="bujun_news_wrap" >
+		<div class="bujun_news">
+			
+			<div class="title c">
+				<div class="m_tit">부전도서관 소식</div>
+				<div class="s_tit">부전도서관 소식을 알려드립니다.</div>
+			</div>
+			
+			<div class="bujun_wl">
+				<div class="bujun_wl_bg">
+					<div id="popup"> 
+						<div class="roll_pop_tle control"> 
+							<div class="roll_pop_btn"> 
+								<a href="#" id="popPrev"><img src="${pageContext.request.contextPath}/resources/user/images/main/pop_arr02.png" alt="팝업 이전이미지" /></a> 
+								<a href="#" id="popStop"><img src="${pageContext.request.contextPath}/resources/user/images/main/pop_stop.png" alt="팝업 이미지 일시정지" /></a> 
+								<a href="#" id="popNext"><img src="${pageContext.request.contextPath}/resources/user/images/main/pop_arr01.png" alt="팝업 다음이미지" /></a> 
+								<div class="pop_count"><span id="pager_cnt">1</span> / <span id="total_cnt">1</span></div> 
+							</div> 
+						</div> 
+						
+						<div class="control_bg"></div>
+		 
+						<div class="roll_pop_area"> 
+							<div id="main_popup_zone" class="pop_img"> 
+							 
+							<span id="mainPopupzone1" class="news_pause">
+								<img id="img_popzone_1" src="${pageContext.request.contextPath}/resources/user/images/main/pop01.jpg" alt="동래장학회 나눔을 실천하는 사람이 존경받는 아름다운 도시, 바로 동래입니다. Dongnaegu Scholarship Foundation has been evaluated as the best university to innovate undergraduate educational systems’ by unifying two local natioral universities successfully for the first time within Korea." />
+							</span> 
+		
+							<span id="mainPopupzone2" class="news_pause">
+								<img id="img_popzone_2" src="/common/images/main/pop/pop03.jpg" alt="동래장학회 사진2" />
+							</span>
+		
+							</div> 
+							<!--//main_popup_zone--> 
+						</div> 
+						<!--//roll_pop_area--> 
+					</div>
+				
+				</div> 
+			</div>
+		
+			<div class="bujun_wr">
+				 <!-- 공지사항 -->
+				 <article id="main_notice" class="main_notice">
+					<div class="main_notice_line">
+						<div id="main_notice_div">
+							
+							
+							<!-- 1 -->
+							<h3 class="nt_01"><a href="#" class="on">공지사항</a></h3>
+							<div class="ncons"  style="display:block;">
+								<ul>
+									<li>
+										<a href="?action=BD0000M&amp;pagecode=P000000026&amp;command=View&amp;idx=395">
+											11								
+										</a>
+										<span class="main_date">2018.03.20</span>
+									</li>
+									<li>
+										<a href="?action=BD0000M&amp;pagecode=P000000026&amp;command=View&amp;idx=395">
+											제8회 &#40;재&#41;동래장학회 장학생 선발자 명단									
+										</a>
+										<span class="main_date">2018.03.20</span>
+									</li>
+									<li>
+										<a href="?action=BD0000M&amp;pagecode=P000000026&amp;command=View&amp;idx=395">
+											제8회 &#40;재&#41;동래장학회 장학생 선발자 명단									
+										</a>
+										<span class="main_date">2018.03.20</span>
+									</li>
+								</ul>
+								<a href="/index.php?pagecode=P000000026" class="more" title="공지사항 목록 더보기로 이동합니다."><img src="/common/images/main/plus_blk.png" alt="공지사항 더보기" /></a>
+							</div>
+							<!-- //1 -->
+	
+	
+							<!-- 2 -->
+							<h3 class="nt_02"><a href="#" >보도자료</a></h3>
+							<div class="ncons" >
+	
+								<ul>
+									<li>
+										<a href="?action=BD0000M&amp;pagecode=P000000026&amp;command=View&amp;idx=395">
+											22
+										</a>
+										<span class="main_date">2018.03.20</span>
+									</li>
+									<li>
+										<a href="?action=BD0000M&amp;pagecode=P000000026&amp;command=View&amp;idx=395">
+											제8회 &#40;재&#41;동래장학회 장학생 선발자 명단
+										</a>
+										<span class="main_date">2018.03.20</span>
+									</li>
+									<li>
+										<a href="?action=BD0000M&amp;pagecode=P000000026&amp;command=View&amp;idx=395">
+											제8회 &#40;재&#41;동래장학회 장학생 선발자 명단
+										</a>
+										<span class="main_date">2018.03.20</span>
+									</li>
+								</ul>
+								<a href="/index.php?pagecode=P000000028" class="more" title="보도자료 목록 더보기로 이동합니다."><img src="/common/images/main/plus_blk.png" alt="보도자료 더보기" /></a>						
+							</div>
+							<!-- //2 -->
+						
+						
+							<!-- 3 -->
+							<h3 class="nt_03"><a href="#" >보도자료</a></h3>
+							<div class="ncons" >
+	
+								<ul>
+									<li>
+										<a href="?action=BD0000M&amp;pagecode=P000000026&amp;command=View&amp;idx=395">
+											33							
+										</a>
+										<span class="main_date">2018.03.20</span>
+									</li>
+									<li>
+										<a href="?action=BD0000M&amp;pagecode=P000000026&amp;command=View&amp;idx=395">
+											제8회 &#40;재&#41;동래장학회 장학생 선발자 명단									
+										</a>
+										<span class="main_date">2018.03.20</span>
+									</li>
+									<li>
+										<a href="?action=BD0000M&amp;pagecode=P000000026&amp;command=View&amp;idx=395">
+											제8회 &#40;재&#41;동래장학회 장학생 선발자 명단									
+										</a>
+										<span class="main_date">2018.03.20</span>
+									</li>
+								</ul>
+								<a href="/index.php?pagecode=P000000028" class="more" title="보도자료 목록 더보기로 이동합니다."><img src="/common/images/main/plus_blk.png" alt="보도자료 더보기" /></a>						
+							</div>
+							<!-- //3 -->						
+						
+						</div>
+					</div>
+				</article> 		
+			</div>
+		
+		</div> 		
+		
+		<div class="news_bg_1"></div>
+		<div class="news_bg_2"></div>
+		<div class="news_bg_3"></div>
+	
+	
+	</div>
+	
+	
+	<div class="book_con">
+		<div class="book_con_wrap">
+			ddd
+		</div>
+	</div>
+	
+	
+	<div class="quick">
+		<div class="quick_wrap">
+			
+			<div class="tit">QUICK<span>SERVICE</span></div>
+			<ul class="quick_menu">
+				<li><a href="#"><span class="txt">비치희망자료</span></a></li>
+				<li><a href="#"><span class="txt">나의 대출정보</span></a></li>
+				<li><a href="#"><span class="txt">자원봉사신청</span></a></li>
+				<li><a href="#"><span class="txt">전자책e-book</span></a></li>
+				<li><a href="#"><span class="txt">자리 예약</span></a></li>
+				<li><a href="#"><span class="txt">새로들어온책</span></a></li>
+				<li><a href="#"><span class="txt">공공도서관 통합검색</span></a></li>
+				<li><a href="#"><span class="txt">특성화 금융정보자료실</span></a></li>
+				<li><a href="#"><span class="txt">특성화 문화강좌신청</span></a></li>
+				<li><a href="#"><span class="txt">편의시설</span></a></li>
+				
+			</ul>
+			
+		</div>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+
 
 
 

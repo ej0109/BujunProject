@@ -18,8 +18,15 @@
 	<script type="text/javascript" src="${pageContext.request.contextPath}/resources/user/js/init.js"></script>
 	<script type="text/javascript" src="${pageContext.request.contextPath}/resources/user/js/menu.js"></script>    
     
+    <!-- 팝업존 -->
+	<script type="text/javascript" src="http://www.dongnaesf.kr/jquery.cycle.all.js" charset="utf-8"></script> 
+	<script type="text/javascript" src="http://www.dongnaesf.kr/bannerget.js" charset="utf-8"></script> 
+
+
 	<title>부전도서관</title>
 	
+	
+	<!-- 메뉴 -->
     <script>
 	    $(function() {
 	        /* 메가드롭다운 */
@@ -54,15 +61,12 @@
 	
 	    });  
     </script>	
-    
-    
-    
- <!--    <script type="text/javascript" src="http://www.bjl.go.kr/n_js/jquery.bxslider.min.js"></script>
-    <script type="text/javascript" src="http://www.bjl.go.kr/n_js/main.js"></script>
-    <script type="text/javascript" src="http://www.bjl.go.kr/n_js/jquery-ui-1.9.2.custom.js"></script> 
-  -->   
-    
- 
+		 
+		 
+		 
+		 
+		 
+		 
 		 
     
 </head>
@@ -73,75 +77,102 @@
 	<!-- gnb -->
 	<div class="lnb_menu">
 		<div class="lnb_wrap">
-			<ul>
-				<li>로그인</li>
-				<li>회원가입</li>
-				<li>마이페이지</li>
+			<ul class="lnb_con">
+				<li><a href="#">로그인</a></li>
+				<li><a href="#">회원가입</a></li>
+				<li><a href="#">마이페이지</a></li>
 			</ul>
 		</div>
 	</div>
 	
 	<!-- lnb_pc -->
 	<div class="gnb_menu_pc">
-		<div class="gnb_wrap">		
-			<div class="header">
-	            <div class="gnb_wrap">
-	                <ul class="gnb">
-	                    <li>
-	                        <a href="#">Level1</a>
-	                        <ul class="sub">
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                        </ul>
-	                    </li>
-	                    <li>
-	                        <a href="#">Level1</a>
-	                        <ul class="sub">
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                        </ul>
-	                    </li>
-	                    <li>
-	                        <a href="#">Level1</a>
-	                        <ul class="sub">
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                        </ul>
-	                    </li>
-	                    <li>
-	                        <a href="#">Level1</a>
-	                        <ul class="sub">
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                        </ul>
-	                    </li>
-	                    <li>
-	                        <a href="#">Level1</a>
-	                        <ul class="sub">
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                            <li><a href="#">level2</a></li>
-	                        </ul>
-	                    </li>
-	                </ul>
-	                <!--end of gnb-->
-	            </div>
-	            <div class="sub_bg text_hide">서브 메뉴 배경 요소</div>
-	            <!--end of sub_bg-->
-	        </div> <!-- 끝 -->
-		</div> <!-- //gnb_wrap  -->
+		<div class="header">
+            <div class="gnb_wrap">
+            	<h1><a href="#"><img src="${pageContext.request.contextPath}/resources/user/images/common/logo.png" alt="부전도서관 로고" /></a></h1>
+            	
+                <ul class="gnb">
+                    <li>
+                        <a href="#">도서관 소개</a>
+                        <ul class="sub">
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">도서관 이용</a>
+                        <ul class="sub">
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">자료찾기</a>
+                        <ul class="sub">
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">평생교육</a>
+                        <ul class="sub">
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">독서문화</a>
+                        <ul class="sub">
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">열린문화</a>
+                        <ul class="sub">
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                        </ul>
+                    </li>    
+                    <li>
+                        <a href="#">정보공개</a>
+                        <ul class="sub">
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                            <li><a href="#">level2</a></li>
+                        </ul>
+                    </li>                 
+                </ul>
+                <!--end of gnb-->
+            </div>
+            <div class="sub_bg text_hide">서브 메뉴 배경 요소</div>
+            <!--end of sub_bg-->
+        </div> <!-- 끝 -->
+	</div> <!-- //gnb_wrap  -->
         
         
-	</div>
 	
 	
 	<!-- lnb_mob -->

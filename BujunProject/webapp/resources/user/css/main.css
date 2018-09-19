@@ -2,28 +2,158 @@
 
 /******************** pc *****************/
 
+/* visual */
+.visual {width:100%; background:url(../images/main/visual.png) no-repeat; height:474px; background-size:100% 100%;}
+.visual .visual_wrap { position:relative; width:1200px; margin: 0 auto;}
+.visual .search_wrap {box-sizing:border-box; margin:0 auto; width:919px; height:140px;}
+.visual .search_bg {background:url(../images/main/search_bg.png) no-repeat 0 0; margin:0 auto; width:919px; height:140px;}
+.visual .search_title {padding:25px 0 13px 30px; font-size:20px; color:#fff;}
+.visual .search_form {padding:0 30px; position:relative;}
+.visual .search_form input {border:0; box-sizing:border-box; padding-left:10px; width:100%; height:47px; border-radius:5px; }
+.visual .m_search {right:42px; top:14px; background:none; cursor:pointer; position:absolute;}
+.visual .visual_title {padding:104px 0 47px 0;}
+
+/* bujun_news */
+.bujun_news_wrap {width:100%; background:#254e88; position:relative; overflow:hidden;}
+.bujun_news {width:1200px; margin: 0 auto; position:relative;}
+.bujun_news .title {padding-top:100px; color:#fff; }
+.bujun_news .title .m_tit {font-size:30px; margin-bottom:16px;}
+.bujun_news .title .s_tit {font-size:18px; font-weight:200; padding-bottom:56px;}
+
+/* popup */
+#popup {width:469px; height:331px; background:#fff; position:relative;}
+#popup #popPrev {position:absolute; bottom:8px; left:14px; z-index:4;}
+#popup #popNext {position:absolute; bottom:8px; right:14px; z-index:4;}
+#popup #popStop {position:absolute; bottom:8px; right:55px; z-index:4;}
+#popup .pop_count {margin-left:-18px; color:#fff; position:absolute; bottom:18px; left:50%; z-index:4;}
+
+#popup .control_bg {bottom:0; width:100%; z-index:3; height:53px; background:#000; position:absolute; opacity:0.5;}
 
 
+.bujun_news_wrap .bujun_wr, .bujun_news_wrap .bujun_wl{z-index:2; position:relative; padding-bottom:100px;}
+.bujun_news_wrap .bujun_wl {float:left;}
+.bujun_news_wrap .bujun_wr {float:right;}
+
+.bujun_news_wrap:after {display:block; content:""; clear:both;}
+
+.news_bg_1, .news_bg_2, .news_bg_3 {display:block; position:absolute; z-index:1;}
+.news_bg_1 {top:116px; left:-128px; width:387px; height:386px; background:url(../images/main/visual_con01.png) no-repeat 0 0;}
+.news_bg_2 {top:0; right:116px; width:112px; height:112px; background:url(../images/main/visual_con02.png) no-repeat 0 0;}
+.news_bg_3 {bottom:28px; right:-23px; width:213px; height:213px; background:url(../images/main/visual_con03.png) no-repeat 0 0;}
 
 
+/*공지사항*/
+#main_notice {background:#fff; width:715px; height:331px; z-index:100; position:relative; margin-left:12px;}
+#main_notice .main_notice_line{border:1px solid #c5c5c5; height:330px; margin:0; background:url(/common/images/main/main_notice_bg.jpg)repeat-x;} 
+/*#main_notice_div {margin:20px; position:relative; }*/
+#main_notice > div h3 a {width: 218px; padding:17px 0 16px 0; text-align:center; font-size:16px; font-weight:400; color:#333;}
+#main_notice > div h3 a.on, #main_notice > div h3 a:hover {background:#0067d4; color:#fff;}
 
-/******************** pc_1500px *****************/
-@media all and (max-width:1500px) {
+#main_notice > div h3.nt_01 {position:absolute; top:0; left:1px;}
+#main_notice > div h3.nt_01 a{margin-top:1px; display:block; border-right: 1px solid #c5c5c5;}
+#main_notice > div h3.nt_02 {position:absolute; top:0; left:220px;}
+#main_notice > div h3.nt_02 a{margin-top:1px; display:block; border-right: 1px solid #c5c5c5;}
+#main_notice > div h3.nt_03 {position:absolute; top:0; left:439px;}
+#main_notice > div h3.nt_03 a{margin-top:1px; display:block; border-right: 1px solid #c5c5c5;}
 
-}
+#main_notice > div div.ncons {border-top:1px solid #c5c5c5; position:absolute; top:50px; width:100%; display:none;}
+#main_notice > div div.ncons ul {padding:18px 25px;}
+span.first_title{padding-top:12px; display:block; margin-bottom:2px;}
+span.text {word-break: keep-all; display: block; overflow: hidden; width:100%; height:17px; font-size:13px; color: #707070; line-height: 18px; font-weight:normal;}
+#main_notice > div div.ncons ul li {clear:both; background: url(/common/images/main/bul_notice.png) no-repeat 0 45%; padding-left:12px; height:24px; line-height:24px; margin-bottom:5px;}
+#main_notice > div div.ncons ul li a {overflow: hidden; white-space: nowrap; text-overflow: ellipsis; word-wrap: normal; float:left; font-size:14px; width:83%; height:24px; line-height:24px; }
+#main_notice > div div.ncons ul li span.main_date {float:right; font-size:13px; color:#999;}
+#main_notice > div div.ncons a.more {position:absolute; top:-39px; right:16px;}
+
+
+/* book */
+.book_con {width:100%; background:#f1f1f1;}
+.book_con .book_con_wrap {width:1200px; margin:0 auto;}
+
+
+/* quick menu */
+.quick {width:100%; background:#8bb875;}
+.quick .quick_wrap {width:1200px; margin:0 auto;}
+.quick .quick_wrap:after {display:block; content:""; clear:both;}
+.quick .tit {float:left; width:208px;}
+.quick .quick_menu {width:992px; float:left; padding-top:54px;}
+.quick .quick_menu:after {display:block; content:""; clear:both;}
+.quick .quick_menu li{margin-bottom:10px; float:left; box-sizing:border-box; width:186px; margin-right:12px;}
+.quick .quick_menu li a {transition:all .3s ease; background:#fff; display:block; border:1px solid #ddd;}
+.quick .quick_menu li:last-child {margin-right:0;}
+.quick .quick_menu li span.txt {padding:22px 18px 22px 57px; width:auto; display:block; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; word-wrap: normal;}
+
+
+.quick .quick_menu li:nth-child(1) a,
+.quick .quick_menu li:nth-child(2) a,
+.quick .quick_menu li:nth-child(3) a,
+.quick .quick_menu li:nth-child(4) a,
+.quick .quick_menu li:nth-child(5) a,
+.quick .quick_menu li:nth-child(6) a,
+.quick .quick_menu li:nth-child(7) a,
+.quick .quick_menu li:nth-child(8) a,
+.quick .quick_menu li:nth-child(9) a,
+.quick .quick_menu li:nth-child(10) a {background-position:19px center; background-repeat: no-repeat;}
+
+.quick .quick_menu li:nth-child(1) a {background-image:url(../images/main/quick_con01.png);}
+.quick .quick_menu li:nth-child(2) a {background-image:url(../images/main/quick_con02.png);}
+.quick .quick_menu li:nth-child(3) a {background-image:url(../images/main/quick_con03.png);}
+.quick .quick_menu li:nth-child(4) a {background-image:url(../images/main/quick_con04.png);}
+.quick .quick_menu li:nth-child(5) a {background-image:url(../images/main/quick_con05.png);}
+.quick .quick_menu li:nth-child(6) a {background-image:url(../images/main/quick_con06.png);}
+.quick .quick_menu li:nth-child(7) a {background-image:url(../images/main/quick_con07.png);}
+.quick .quick_menu li:nth-child(8) a {background-image:url(../images/main/quick_con08.png);}
+.quick .quick_menu li:nth-child(9) a {background-image:url(../images/main/quick_con09.png);}
+.quick .quick_menu li:nth-child(10) a {background-image:url(../images/main/quick_con10.png);}
+
+
+.quick .quick_menu li a:hover {background-color:#eee; color:#0067d4; font-weight:500;}
 
 
 
 /******************** pad *****************/
 @media all and (max-width:1000px) {
-
+	.visual {display:none;}
+	
+	/* 소식 */
+	.bujun_news_wrap {overflow: visible;}
+	.bujun_news_wrap .bujun_news {width:100%;}
+	.bujun_news_wrap .bujun_wl {float:none; background:#eee;}
+	.bujun_news_wrap .bujun_wr, .bujun_news_wrap .bujun_wl{padding-bottom:0;}
+	.bujun_wl_bg {padding: 20px;}
+    #popup {width:100%;}
+    #popup span img {width:100%; height:331px;}
+    #main_popup_zone, #main_popup_zone span {width:100% !important;}
+    
+    .bujun_news .title {display:none;}
+    .bujun_news_wrap .bujun_wr {float:none; padding:20px;}
+    #main_notice {margin-left:0; width: 100%;}
+    .news_bg_3 {display:none;}
+    
+    
+    .book_con .book_con_wrap{width:auto; padding:20px;}
+    
+    /* quick menu */
+    .quick .quick_wrap {width:auto; padding:20px;}
+    .quick .tit {width:100%; float:none;}
+    .quick .quick_menu {width:100%; float:none;}
+    .quick .quick_menu li {width:24.25%; margin-right:1%;}
+    .quick .quick_menu li:nth-child(4n) {margin-right:0;}
+    
 }
-
-
 
 
 
 /******************** mob *****************/
 @media all and (max-width:767px) {
-
+	
+	/* 팝업/공지사항 */
+	.bujun_wl_bg {padding:15px 10px;}
+	.bujun_news_wrap .bujun_wr {padding:25px 10px;}
+	#main_notice > div h3 a {width:auto; padding: 17px 30px 16px 30px;}
+	#main_notice > div h3.nt_02 {left: 121px;}
+	#main_notice > div h3.nt_03 {display:none;}
 }
+
+
+
